@@ -7,16 +7,6 @@
     <img src="https://komarev.com/ghpvc/?username=rajnesh6306&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/rajnesh6306">
-    <img src="https://img.shields.io/github/followers/rajnesh6306?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/rajnesh6306">
-    <img src="https://img.shields.io/github/stars/rajnesh6306?label=Stars&style=flat" alt="GitHub Stars"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
