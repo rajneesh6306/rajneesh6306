@@ -170,23 +170,6 @@ I regularly practice **DSA using C++** with a focus on:
 🔗 **LeetCode:**
 https://leetcode.com/rajneeshchaudhary
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajnesh6306&show_icons=true&hide_border=true&rank_icon=github" alt="Rajneesh's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnesh6306&layout=compact&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajnesh6306&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 ## 📚 Currently Learning
 
